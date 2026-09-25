@@ -1,0 +1,504 @@
+Customer_ID,Age,Monthly_Income,Monthly_Spending,Number_of_Purchases,Website_Visits,Support_Calls,Payment_Method,Region,Previous_Campaign_Response,Churn
+C0092,18,1701.62,325.53,4,9,0,Card,Matabeleland North,Yes,No
+C0135,30,1359.09,260.33,7,15,2,Card,Mashonaland West,No,No
+C0443,42,,208.05,4,8,4,Mobile Money,Mashonaland East,No,Yes
+C0122,30,1118.26,,6,14,4,Card,Mashonaland Central,Yes,No
+C0364,38,1289.88,197.97,8,16,2,Bank Transfer,Matabeleland South,No,No
+C0491,40,797.9,231.38,9,6,3,Mobile Money,Masvingo,Yes,No
+C0158,18,1482.73,292.77,8,11,1,Card,Bulawayo,No,No
+C0425,40,1161.06,145.36,10,15,4,Bank Transfer,Manicaland,Yes,No
+C0376,35,1749.86,569.31,5,20,0,,Mashonaland East,Yes,No
+C0420,43,1505.07,420.39,11,11,1,Bank Transfer,Bulawayo,Yes,No
+C0445,20,1017.75,148.48,8,12,1,,Mashonaland Central,Yes,No
+C0409,27,990.07,372.12,11,15,6,Card,Mashonaland West,No,No
+C0263,18,785.05,367.11,7,12,0,Card,Mashonaland West,Yes,No
+C0349,18,570.76,276.26,6,14,6,Cash,Mashonaland East,No,No
+C0316,28,1715.52,282.42,7,12,3,Mobile Money,Mashonaland West,Yes,No
+C0285,59,1799.81,130.89,6,10,0,Card,Manicaland,Yes,No
+C0369,21,15000.0,197.74,7,16,0,Card,Masvingo,Yes,No
+C0435,47,881.35,420.25,2,12,0,Card,Matabeleland South,Yes,No
+C0479,24,1400.2,,8,12,1,Cash,Midlands,Yes,Yes
+C0266,28,1073.9,211.02,8,12,4,Mobile Money,Masvingo,No,No
+C0209,41,2198.25,30.0,5,10,3,Card,Mashonaland Central,No,Yes
+C0114,29,2256.94,400.83,7,6,1,,Masvingo,Yes,No
+C0467,37,350.0,136.44,7,14,2,Card,Manicaland,No,No
+C0381,49,1097.51,178.87,5,17,1,Mobile Money,Harare,No,No
+C0055,31,919.18,74.68,4,5,3,Cash,Midlands,No,No
+C0040,44,1309.2,191.26,6,18,1,Cash,Mashonaland Central,No,No
+C0045,41,1976.02,398.61,9,13,3,Card,Mashonaland West,No,Yes
+C0486,39,631.41,273.81,5,18,2,Mobile Money,Matabeleland South,No,No
+C0400,26,1479.13,89.23,9,14,7,Card,Bulawayo,Yes,Yes
+C0450,36,821.02,30.0,11,10,1,Mobile Money,Bulawayo,No,No
+C0159,40,581.26,198.55,7,9,3,Mobile Money,Mashonaland Central,Yes,Yes
+C0169,26,1232.79,30.0,6,11,2,Cash,Harare,Yes,No
+C0084,40,643.41,377.62,7,16,5,Mobile Money,Mashonaland Central,No,No
+C0062,25,1421.75,334.49,6,12,5,Mobile Money,Mashonaland Central,No,No
+C0176,18,350.0,308.91,9,13,2,Card,Manicaland,No,No
+C0465,33,1906.89,252.97,11,17,1,Mobile Money,Mashonaland East,No,No
+C0142,21,1289.54,119.25,6,21,2,Card,Bulawayo,Yes,No
+C0440,18,431.27,198.06,4,14,1,Card,Harare,Yes,No
+C0431,50,1309.17,236.38,8,14,0,Mobile Money,Bulawayo,No,Yes
+C0324,30,1153.67,340.45,5,10,2,Mobile Money,Masvingo,Yes,No
+C0310,24,1105.69,66.99,11,16,2,Card,Bulawayo,No,No
+C0458,33,1566.87,92.88,16,17,3,Card,Mashonaland East,No,No
+C0006,32,1420.23,333.74,9,11,2,Mobile Money,Bulawayo,Yes,No
+C0211,30,,399.13,6,8,1,Card,Mashonaland West,No,No
+C0079,48,1248.54,330.72,4,17,1,Card,Matabeleland South,No,No
+C0339,28,971.18,30.0,8,15,0,Cash,Harare,No,Yes
+C0234,50,350.0,255.75,3,13,2,Cash,Harare,No,No
+C0208,43,12000.0,147.79,7,9,4,Cash,Matabeleland South,Yes,No
+C0009,32,1474.16,436.02,11,11,2,Card,Manicaland,No,No
+C0085,39,850.17,228.36,5,13,4,Card,Manicaland,No,No
+C0042,29,592.06,384.96,11,8,2,Card,Mashonaland East,No,Yes
+C0280,46,1100.8,123.48,4,21,2,Card,Mashonaland West,Yes,Yes
+C0379,39,1480.91,313.99,4,10,1,Card,Masvingo,No,No
+C0231,33,1225.79,317.46,4,6,5,Cash,Harare,No,Yes
+C0104,16,455.4,251.06,8,14,1,Cash,Masvingo,Yes,No
+C0406,39,350.0,382.8,8,20,5,Card,Bulawayo,No,Yes
+C0462,39,1242.33,141.04,7,15,1,Bank Transfer,Mashonaland Central,Yes,No
+C0072,28,1117.06,363.16,10,9,3,Mobile Money,Manicaland,Yes,No
+C0198,39,1125.12,268.28,13,11,3,Mobile Money,Mashonaland East,No,Yes
+C0300,38,1054.68,255.32,5,7,1,Cash,Manicaland,Yes,No
+C0495,39,1391.6,78.13,7,11,2,Card,Midlands,No,Yes
+C0057,32,1434.0,316.14,7,12,1,Card,Mashonaland East,Yes,Yes
+C0056,35,861.97,282.11,11,17,2,Card,Mashonaland West,No,No
+C0416,30,1130.8,211.38,10,9,5,Card,Matabeleland South,No,No
+C0398,30,1310.34,125.03,10,13,0,Card,Matabeleland North,No,No
+C0402,24,350.0,209.91,5,13,1,Card,Mashonaland West,No,No
+C0024,34,9500.0,459.03,5,8,5,Bank Transfer,Manicaland,Yes,No
+C0134,20,,215.68,8,13,0,Mobile Money,Bulawayo,Yes,No
+C0256,23,1092.6,358.24,7,16,2,Mobile Money,Mashonaland Central,Yes,No
+C0237,42,1704.4,193.56,7,9,3,Card,Midlands,No,No
+C0226,33,1231.02,192.54,5,6,2,Card,Midlands,Yes,No
+C0424,28,1424.84,264.74,8,13,3,Mobile Money,Masvingo,No,No
+C0002,37,1517.76,380.37,5,17,1,Cash,Mashonaland East,No,No
+C0447,29,1016.03,169.59,9,13,2,Mobile Money,Mashonaland Central,Yes,No
+C0483,38,1044.69,364.91,7,15,2,Mobile Money,Matabeleland South,Yes,No
+C0487,34,1020.86,160.38,11,14,1,Mobile Money,Midlands,No,Yes
+C0248,22,1284.69,143.57,10,11,4,Card,Masvingo,Yes,No
+C0384,35,,107.01,8,13,3,Card,Matabeleland North,No,No
+C0144,37,1116.6,285.18,4,15,1,Card,Manicaland,Yes,No
+C0038,30,1209.79,409.94,7,8,3,Cash,Matabeleland South,No,No
+C0262,18,1165.54,101.24,7,16,2,Cash,Harare,No,No
+C0342,38,1269.96,377.28,4,8,2,Mobile Money,Bulawayo,Yes,No
+C0197,20,,340.62,8,12,2,Mobile Money,Harare,No,No
+C0478,25,1281.56,233.93,4,16,3,Mobile Money,Masvingo,Yes,No
+C0038,30,1209.79,409.94,7,8,3,Cash,Matabeleland South,No,No
+C0401,20,1819.11,267.49,5,9,1,Card,Manicaland,No,No
+C0192,31,350.0,115.88,7,14,4,Card,Masvingo,No,Yes
+C0155,43,1492.0,393.1,6,15,1,Card,Bulawayo,No,No
+C0333,39,1072.86,284.51,5,9,2,Bank Transfer,Harare,Yes,No
+C0212,39,1715.13,381.3,9,25,0,Card,Matabeleland South,No,No
+C0110,46,1364.91,115.51,11,22,3,Bank Transfer,Matabeleland North,Yes,No
+C0448,25,350.0,,14,8,4,Cash,Manicaland,No,No
+C0008,38,350.0,269.62,6,17,3,Mobile Money,Masvingo,No,No
+C0120,40,1487.33,190.72,3,7,2,Card,Matabeleland North,No,No
+C0214,24,853.22,78.71,5,9,2,Cash,Bulawayo,No,Yes
+C0355,44,705.1,327.07,11,6,5,Cash,Harare,Yes,Yes
+C0291,38,1454.12,304.61,6,8,4,Mobile Money,Midlands,No,No
+C0374,53,2293.96,267.16,6,12,3,Mobile Money,Midlands,No,No
+C0286,45,844.48,397.53,9,18,2,Card,Matabeleland South,No,No
+C0451,33,1128.07,202.4,10,10,4,Card,Mashonaland East,No,No
+C0081,50,1562.88,239.07,9,7,1,Mobile Money,Mashonaland Central,Yes,No
+C0490,24,1256.05,113.61,7,8,1,Mobile Money,Mashonaland Central,No,No
+C0174,48,1202.18,327.59,6,11,4,Bank Transfer,Mashonaland East,Yes,No
+C0255,37,1882.21,205.81,8,5,2,Mobile Money,Masvingo,No,No
+C0166,26,1089.42,323.19,4,14,2,Cash,Manicaland,No,No
+C0375,44,1241.32,167.89,9,12,5,Mobile Money,Matabeleland North,Yes,No
+C0073,58,1074.65,221.37,6,10,4,Mobile Money,Midlands,No,No
+C0358,38,1776.57,409.87,14,16,3,Card,Matabeleland South,No,No
+C0007,32,1769.44,266.89,9,16,1,Card,Bulawayo,No,No
+C0221,20,652.64,309.36,10,13,3,Mobile Money,Mashonaland East,No,No
+C0145,26,969.8,194.91,9,16,1,Bank Transfer,Manicaland,No,No
+C0444,33,1316.64,187.98,9,10,1,Card,Mashonaland Central,No,No
+C0031,23,1831.17,434.99,7,9,3,Mobile Money,Harare,No,No
+C0433,26,1093.81,30.0,9,19,2,Mobile Money,Matabeleland North,Yes,No
+C0347,43,1978.34,289.56,5,14,5,Cash,Mashonaland West,Yes,No
+C0016,29,955.12,310.15,4,12,1,Card,Mashonaland Central,No,No
+C0269,37,1089.29,292.01,4,9,3,Card,Manicaland,No,No
+C0372,31,1523.0,4500.0,3,12,4,Card,Masvingo,No,No
+C0012,40,2656.3,122.37,8,17,4,Mobile Money,Midlands,No,Yes
+C0482,37,,307.36,10,12,1,Card,Matabeleland South,Yes,No
+C0343,39,1760.6,229.93,11,19,1,Card,Harare,No,No
+C0087,28,1253.63,176.87,7,13,5,Mobile Money,Matabeleland North,Yes,Yes
+C0178,31,1186.28,225.61,8,10,2,Mobile Money,Mashonaland East,No,Yes
+C0139,25,1534.68,391.09,7,5,2,Mobile Money,Midlands,No,Yes
+C0103,44,1524.71,206.16,3,12,1,Card,Mashonaland West,No,No
+C0205,38,994.18,469.51,9,15,2,Mobile Money,Mashonaland Central,Yes,Yes
+C0423,45,2298.7,522.87,11,10,3,Card,Midlands,No,No
+C0459,33,1302.93,186.35,8,18,4,Mobile Money,Matabeleland North,No,No
+C0100,25,1826.26,450.18,5,11,6,Cash,Mashonaland East,No,Yes
+C0207,30,1113.22,332.57,7,9,4,Mobile Money,Masvingo,No,No
+C0313,26,350.0,265.18,7,12,2,Mobile Money,Harare,No,No
+C0041,37,998.26,267.65,8,9,3,Mobile Money,Midlands,Yes,No
+C0019,34,1719.13,332.5,4,9,1,Card,Mashonaland Central,No,No
+C0396,43,783.12,192.05,3,15,1,Mobile Money,Bulawayo,No,No
+C0311,32,,110.53,5,8,4,Card,Midlands,Yes,No
+C0013,34,1440.86,244.53,6,10,4,Card,Manicaland,No,No
+C0350,45,1652.38,439.27,7,10,2,Mobile Money,Mashonaland West,No,No
+C0101,18,1613.36,360.89,9,12,2,Card,Manicaland,No,No
+C0152,33,,362.84,4,11,2,Mobile Money,Bulawayo,No,No
+C0243,42,1504.19,254.9,3,10,1,Card,Matabeleland North,No,No
+C0201,37,350.0,581.49,7,17,5,Card,Matabeleland South,No,No
+C0387,29,1331.06,368.15,6,5,7,Card,Midlands,Yes,No
+C0386,38,350.0,166.46,6,18,3,,Manicaland,Yes,No
+C0304,51,,288.71,6,9,0,Card,Harare,Yes,Yes
+C0394,50,1686.11,553.69,8,20,4,Mobile Money,Matabeleland North,No,No
+C0254,35,,224.49,7,12,3,Card,Matabeleland North,No,Yes
+C0058,38,908.74,320.03,7,15,3,Card,Mashonaland Central,No,No
+C0161,41,895.93,156.95,7,6,2,Mobile Money,Mashonaland East,Yes,No
+C0389,41,1840.68,293.67,5,3,5,Mobile Money,Harare,No,Yes
+C0456,19,1551.63,30.0,6,13,2,Mobile Money,Bulawayo,No,No
+C0204,37,1434.37,260.1,6,19,4,Card,Mashonaland West,No,No
+C0328,33,730.58,158.98,5,24,2,Mobile Money,Matabeleland South,No,No
+C0276,30,1595.94,194.4,11,16,1,Card,Mashonaland East,No,No
+C0128,51,936.1,361.3,6,16,1,,Matabeleland South,No,No
+C0190,41,1427.83,274.72,3,15,1,Mobile Money,Harare,No,No
+C0432,42,1069.13,160.33,9,13,5,Bank Transfer,Harare,Yes,No
+C0157,30,559.76,166.48,11,13,2,Cash,Manicaland,Yes,No
+C0199,36,1166.43,298.01,6,13,2,Card,Mashonaland West,No,No
+C0132,24,1032.29,140.97,7,13,1,Mobile Money,Bulawayo,Yes,No
+C0345,32,1491.42,158.74,8,11,3,Bank Transfer,Manicaland,Yes,No
+C0274,40,1008.44,541.47,11,9,3,Card,Mashonaland West,No,No
+C0137,43,1102.06,250.36,7,6,4,Card,Manicaland,No,No
+C0032,49,1597.84,382.75,5,18,2,Card,Midlands,No,Yes
+C0077,33,1073.79,376.52,6,16,4,Card,Harare,No,No
+C0235,56,905.29,,10,8,3,Cash,Matabeleland North,No,Yes
+C0219,19,1410.9,424.65,4,6,1,Card,Mashonaland West,No,No
+C0488,50,2172.16,366.44,13,12,1,Card,Midlands,No,No
+C0279,25,1222.19,277.92,12,8,3,Bank Transfer,Mashonaland Central,Yes,No
+C0127,37,1209.32,262.43,6,14,4,Card,Matabeleland South,Yes,No
+C0182,41,1373.01,248.87,5,13,3,Bank Transfer,Harare,Yes,Yes
+C0472,36,1822.18,487.51,5,5,2,Card,Mashonaland Central,No,No
+C0367,29,,225.91,7,12,0,Card,Midlands,Yes,No
+C0494,44,1339.71,187.42,12,15,0,Bank Transfer,Manicaland,No,No
+C0382,25,1900.82,226.33,3,14,4,Mobile Money,Matabeleland North,Yes,No
+C0173,28,972.92,404.87,2,9,5,Mobile Money,Mashonaland West,No,Yes
+C0108,40,2122.48,133.39,10,12,2,Cash,Mashonaland Central,No,No
+C0017,31,705.33,30.0,7,11,2,Bank Transfer,Bulawayo,No,No
+C0463,25,1771.46,228.86,8,13,0,Bank Transfer,Masvingo,No,No
+C0088,33,350.0,104.62,5,6,2,Card,Mashonaland East,Yes,No
+C0275,34,1838.94,242.93,7,13,3,Mobile Money,Harare,No,No
+C0492,26,1031.23,259.59,5,10,4,Card,Mashonaland East,No,No
+C0011,42,1342.19,200.01,7,12,3,Card,Mashonaland East,No,No
+C0309,28,1436.73,243.68,7,11,3,Card,Mashonaland East,No,No
+C0404,41,1424.48,102.36,11,15,7,Card,Mashonaland West,No,Yes
+C0184,28,1276.4,268.33,5,11,9,Card,Matabeleland North,No,Yes
+C0095,36,1039.97,178.75,11,10,2,Mobile Money,Mashonaland West,No,No
+C0484,44,1101.27,421.03,10,13,3,Mobile Money,Harare,Yes,No
+C0129,32,1442.57,362.89,10,14,5,Mobile Money,Midlands,No,No
+C0341,31,,306.88,7,16,2,Mobile Money,Mashonaland East,Yes,No
+C0245,24,1601.62,289.97,6,10,4,Mobile Money,Mashonaland West,No,No
+C0498,24,350.0,383.5,4,12,3,Mobile Money,Matabeleland South,No,Yes
+C0455,47,1518.72,308.24,11,13,1,Mobile Money,Midlands,Yes,No
+C0500,50,1161.71,374.27,11,12,2,Mobile Money,Mashonaland West,No,No
+C0395,41,1783.79,122.17,3,10,7,Bank Transfer,Matabeleland North,No,No
+C0388,33,1028.38,2500.0,7,11,2,Mobile Money,Midlands,No,No
+C0025,41,1440.44,461.47,7,13,1,Card,Midlands,No,No
+C0200,36,1396.7,437.58,8,12,2,Mobile Money,Masvingo,No,No
+C0307,34,908.54,,4,7,4,Cash,Mashonaland West,No,Yes
+C0294,28,1591.65,184.14,6,11,1,Card,Mashonaland East,No,No
+C0194,38,760.85,184.36,5,13,2,Mobile Money,Matabeleland South,No,No
+C0107,35,1195.31,294.95,12,10,4,Mobile Money,Harare,Yes,No
+C0356,54,890.1,70.08,4,11,5,Card,Mashonaland East,No,Yes
+C0091,41,794.13,191.76,7,8,5,Mobile Money,Matabeleland North,No,No
+C0452,27,855.26,297.73,11,11,1,Mobile Money,Matabeleland North,Yes,No
+C0247,34,2058.74,432.76,8,7,1,Bank Transfer,Manicaland,No,No
+C0312,41,,324.86,3,10,2,Card,Matabeleland South,No,No
+C0043,27,745.52,239.14,5,15,2,Card,Mashonaland West,No,No
+C0319,44,350.0,270.71,8,13,3,Mobile Money,Mashonaland West,Yes,No
+C0471,46,1414.28,30.0,10,9,4,Mobile Money,Matabeleland North,No,No
+C0393,19,1452.7,297.28,7,19,4,Mobile Money,Matabeleland North,No,No
+C0082,28,1153.2,288.01,10,15,3,Card,Bulawayo,No,No
+C0249,34,762.01,284.42,7,14,4,Bank Transfer,Matabeleland North,No,No
+C0123,28,1408.93,400.83,7,11,2,Cash,Matabeleland North,No,No
+C0061,25,2535.23,453.42,8,8,1,Cash,Matabeleland South,No,Yes
+C0106,37,1313.25,270.89,6,14,3,Cash,Manicaland,No,Yes
+C0171,39,1788.77,203.97,8,13,1,Bank Transfer,Masvingo,No,No
+C0022,42,1030.9,235.81,9,12,2,Bank Transfer,Masvingo,Yes,No
+C0240,56,732.17,218.52,7,13,3,Card,Manicaland,No,No
+C0065,26,2356.99,301.69,6,13,0,Mobile Money,Harare,No,Yes
+C0385,36,2087.11,327.57,10,8,2,Card,Mashonaland Central,No,Yes
+C0412,34,969.9,359.73,7,19,1,Card,Matabeleland South,No,Yes
+C0338,29,903.71,298.43,9,12,2,Card,Mashonaland Central,No,No
+C0363,28,1172.12,120.7,4,12,2,Mobile Money,Mashonaland East,No,No
+C0284,21,1650.67,177.79,7,8,2,Card,Manicaland,No,No
+C0421,28,350.0,309.01,9,13,2,Card,Mashonaland East,No,No
+C0075,46,1392.17,276.07,9,14,4,Cash,Bulawayo,No,No
+C0051,51,1176.93,244.85,9,10,3,Cash,Mashonaland West,No,No
+C0497,26,1458.97,223.06,2,13,3,Card,Manicaland,No,Yes
+C0126,49,946.43,215.13,11,20,1,Card,Bulawayo,No,No
+C0427,36,1514.9,351.16,5,8,2,Card,Harare,No,Yes
+C0261,36,740.26,185.46,7,17,1,Mobile Money,Matabeleland South,No,No
+C0146,51,576.41,178.94,9,5,1,Card,Matabeleland South,No,No
+C0236,23,1545.63,153.78,7,6,3,Mobile Money,Bulawayo,Yes,Yes
+C0383,18,1769.88,201.79,3,14,5,Card,Bulawayo,Yes,No
+C0457,28,945.01,327.42,3,16,3,Cash,Mashonaland East,No,No
+C0259,43,1829.27,328.46,8,13,0,Mobile Money,Mashonaland East,No,No
+C0191,36,1336.34,501.88,10,5,2,Card,Manicaland,Yes,No
+C0419,40,1063.06,,5,13,4,Card,Matabeleland South,Yes,Yes
+C0357,24,1170.71,211.28,10,8,1,Bank Transfer,Masvingo,No,No
+C0306,52,860.57,199.53,5,11,3,Bank Transfer,Manicaland,Yes,No
+C0281,50,1336.3,187.13,8,6,2,Cash,Mashonaland East,No,No
+C0187,43,1707.67,339.27,11,9,2,Bank Transfer,Harare,Yes,No
+C0163,44,,217.05,9,8,3,Bank Transfer,Manicaland,No,No
+C0089,26,1615.94,394.11,2,11,2,Card,Mashonaland East,No,No
+C0053,28,1077.38,299.73,9,11,3,Mobile Money,Midlands,No,No
+C0332,40,,439.01,11,14,2,Cash,Manicaland,No,No
+C0426,24,959.22,329.63,7,12,1,Mobile Money,Mashonaland East,Yes,No
+C0378,44,1288.35,448.57,10,7,3,Mobile Money,Matabeleland South,No,Yes
+C0063,25,350.0,347.28,8,11,3,Mobile Money,Mashonaland West,No,No
+C0185,43,1137.76,324.08,3,17,3,Mobile Money,Mashonaland West,Yes,No
+C0434,39,1198.96,365.72,9,10,1,Mobile Money,Mashonaland West,No,No
+C0348,34,1366.69,280.56,6,15,4,Card,Masvingo,No,No
+C0116,52,1253.58,185.29,4,10,2,Mobile Money,Midlands,No,Yes
+C0115,35,1012.97,105.32,8,13,1,Card,Bulawayo,Yes,No
+C0361,55,350.0,334.28,9,11,4,Mobile Money,Manicaland,Yes,No
+C0415,48,1098.89,375.39,10,12,9,Mobile Money,Matabeleland South,No,No
+C0453,25,1495.05,399.48,14,16,2,Card,Manicaland,Yes,No
+C0407,40,1695.4,363.44,7,18,1,Card,Harare,No,No
+C0047,57,1579.03,196.69,1,8,4,Card,Matabeleland North,Yes,No
+C0299,43,1025.05,260.09,8,14,2,Bank Transfer,Mashonaland West,Yes,No
+C0417,40,1094.91,207.97,7,13,0,Cash,Masvingo,Yes,No
+C0054,45,,391.53,6,13,1,Card,Mashonaland East,Yes,No
+C0141,50,1203.71,340.55,10,8,1,Mobile Money,Midlands,Yes,No
+C0181,46,1115.45,194.97,7,8,5,Card,Bulawayo,No,No
+C0005,41,25000.0,139.43,7,11,2,Card,Masvingo,Yes,No
+C0470,36,545.1,175.59,7,12,1,Mobile Money,Midlands,No,No
+C0066,48,1276.11,439.66,11,10,4,Card,Bulawayo,No,Yes
+C0336,31,350.0,108.67,8,7,1,Mobile Money,Matabeleland South,No,No
+C0170,49,1077.74,332.57,8,11,2,Mobile Money,Bulawayo,Yes,No
+C0296,34,1722.01,30.0,6,9,0,Card,Matabeleland South,No,No
+C0322,34,398.91,412.32,9,10,5,Card,Matabeleland South,No,No
+C0290,28,1622.1,334.16,13,20,3,Bank Transfer,Harare,Yes,No
+C0027,28,591.56,323.27,8,16,2,Card,Masvingo,No,No
+C0179,35,1654.84,322.23,7,10,3,Mobile Money,Matabeleland South,Yes,Yes
+C0164,26,1705.01,87.41,9,14,1,Mobile Money,Masvingo,Yes,No
+C0499,41,1373.72,261.56,5,13,3,Mobile Money,Mashonaland East,No,Yes
+C0410,25,1738.99,206.97,10,10,3,Mobile Money,Bulawayo,No,No
+C0218,29,871.78,273.85,5,11,2,Card,Mashonaland East,Yes,No
+C0301,35,1641.66,294.37,7,13,3,Mobile Money,Bulawayo,No,Yes
+C0437,36,714.04,337.78,10,14,2,Card,Matabeleland South,No,No
+C0351,24,752.29,244.7,12,13,3,Mobile Money,Mashonaland West,No,No
+C0344,39,1817.45,327.42,9,12,4,Cash,Matabeleland North,Yes,No
+C0150,37,842.25,259.47,8,7,5,Mobile Money,Mashonaland Central,No,No
+C0353,52,1976.27,318.81,5,16,1,Mobile Money,Mashonaland Central,No,No
+C0476,28,1174.65,182.53,12,7,5,Card,Bulawayo,No,No
+C0035,26,710.27,181.0,10,11,3,Cash,Manicaland,Yes,No
+C0337,42,703.0,173.03,10,13,1,Cash,Matabeleland North,Yes,No
+C0111,27,602.4,257.8,6,11,1,Mobile Money,Mashonaland Central,Yes,No
+C0228,28,1096.68,402.46,13,7,3,Card,Matabeleland North,No,No
+C0315,37,536.36,190.5,14,14,2,Card,Matabeleland South,No,No
+C0428,23,907.42,248.01,3,11,2,Card,Manicaland,No,No
+C0323,38,1623.81,549.14,6,10,4,Card,Matabeleland South,No,No
+C0480,41,499.14,367.14,6,18,3,Card,Mashonaland East,No,No
+C0151,24,1160.81,333.34,4,13,4,Card,Matabeleland South,Yes,No
+C0143,36,776.47,193.19,7,19,1,Mobile Money,Harare,No,No
+C0272,50,644.41,177.16,12,7,5,Card,Bulawayo,No,No
+C0330,51,1210.56,232.94,4,10,6,Bank Transfer,Matabeleland South,No,No
+C0001,27,2126.15,327.69,7,10,0,Cash,Bulawayo,No,Yes
+C0303,46,1130.84,465.01,9,14,2,Mobile Money,Harare,No,No
+C0175,26,,385.65,10,11,2,Card,Mashonaland Central,No,No
+C0177,49,1357.2,313.29,10,9,1,Mobile Money,Harare,No,No
+C0359,37,644.06,,9,8,4,Cash,Bulawayo,Yes,No
+C0302,25,1224.18,302.23,10,4,1,Mobile Money,Matabeleland North,No,No
+C0223,29,890.97,193.35,7,14,2,Bank Transfer,Harare,No,Yes
+C0241,60,1775.49,305.47,1,11,0,Card,Masvingo,No,No
+C0156,21,932.12,295.74,7,20,4,Mobile Money,Mashonaland West,No,No
+C0143,36,776.47,193.19,7,19,1,Mobile Money,Harare,No,No
+C0288,36,1142.95,253.06,6,15,2,Card,Masvingo,Yes,No
+C0373,34,440.59,382.22,6,11,2,Card,Matabeleland South,No,No
+C0186,46,1373.96,286.28,8,8,2,Mobile Money,Bulawayo,Yes,No
+C0238,43,18000.0,126.11,10,10,2,Mobile Money,Midlands,No,No
+C0147,50,1268.48,304.57,7,12,2,Card,Mashonaland Central,Yes,No
+C0331,30,1382.82,189.2,9,9,3,Mobile Money,Bulawayo,Yes,No
+C0105,49,1081.74,291.08,5,12,3,Mobile Money,Mashonaland Central,No,No
+C0010,33,1617.54,221.36,9,16,6,Card,Harare,No,Yes
+C0380,44,882.15,167.53,4,18,4,Cash,Matabeleland South,Yes,No
+C0377,33,765.15,163.99,10,6,3,Card,Masvingo,No,Yes
+C0167,43,440.17,135.19,8,13,5,Card,Matabeleland South,Yes,Yes
+C0148,41,1135.29,153.43,6,17,3,Mobile Money,Manicaland,Yes,No
+C0403,36,1077.76,294.12,5,10,2,Mobile Money,Midlands,No,No
+C0014,34,1214.62,408.48,8,12,1,Mobile Money,Midlands,Yes,No
+C0371,27,594.29,509.95,12,10,2,Card,Mashonaland West,Yes,No
+C0121,46,1519.64,365.44,9,14,2,Mobile Money,Matabeleland North,No,No
+C0346,33,1761.87,166.56,9,16,3,Card,Mashonaland West,No,No
+C0224,30,878.06,318.36,9,15,1,Mobile Money,Mashonaland West,No,No
+C0287,37,1095.61,145.55,5,15,2,Mobile Money,Manicaland,Yes,No
+C0239,40,1842.34,353.81,4,15,3,Mobile Money,Bulawayo,No,No
+C0244,24,350.0,276.4,6,7,1,Card,Masvingo,No,No
+C0037,30,1012.98,392.57,4,12,4,Bank Transfer,Matabeleland South,Yes,No
+C0229,24,1386.9,336.4,5,16,5,Cash,Matabeleland North,No,No
+C0069,23,1734.77,318.01,4,6,5,Card,Mashonaland Central,No,Yes
+C0233,50,1055.71,172.59,7,12,4,Cash,Mashonaland West,Yes,No
+C0268,22,1444.88,680.02,7,11,4,Bank Transfer,Midlands,Yes,No
+C0282,35,924.38,383.56,6,12,6,Card,Matabeleland North,Yes,Yes
+C0119,44,564.91,130.73,5,17,2,Mobile Money,Mashonaland Central,No,No
+C0130,24,1650.89,386.05,5,13,0,Mobile Money,Mashonaland Central,Yes,No
+C0314,34,841.85,242.04,8,16,3,Card,Midlands,Yes,No
+C0083,36,1031.05,370.44,6,10,3,Mobile Money,Bulawayo,No,Yes
+C0180,54,2117.94,261.53,14,10,1,Card,Matabeleland South,No,No
+C0493,22,1643.33,202.96,5,15,1,Card,Matabeleland North,No,No
+C0411,30,421.83,139.7,7,13,5,Bank Transfer,Matabeleland South,No,No
+C0469,21,1463.95,351.13,5,16,3,Bank Transfer,Matabeleland South,No,No
+C0046,42,1304.66,351.67,10,12,3,Bank Transfer,Mashonaland Central,No,No
+C0368,40,1959.57,179.98,11,17,4,Mobile Money,Bulawayo,No,No
+C0298,65,1357.22,258.09,2,15,0,Mobile Money,Matabeleland North,No,No
+C0242,45,1294.4,335.75,10,11,1,Card,Masvingo,Yes,No
+C0468,18,733.99,335.15,10,7,2,Mobile Money,Mashonaland Central,No,No
+C0193,43,1195.22,512.47,1,11,3,Bank Transfer,Mashonaland Central,No,No
+C0225,39,2088.95,206.75,4,16,1,Mobile Money,Matabeleland North,Yes,No
+C0154,26,1320.03,212.58,7,15,2,Mobile Money,Matabeleland North,No,No
+C0390,41,1699.44,290.47,11,12,2,Mobile Money,Matabeleland North,No,No
+C0188,33,817.92,234.19,10,19,2,Mobile Money,Mashonaland Central,Yes,No
+C0094,22,879.87,337.61,7,13,2,Mobile Money,Mashonaland Central,No,Yes
+C0124,45,1247.13,,8,12,2,Cash,Mashonaland Central,Yes,No
+C0326,33,1171.47,276.93,16,8,1,Card,Bulawayo,No,No
+C0168,42,1574.04,302.76,4,12,1,Mobile Money,Mashonaland West,No,Yes
+C0060,29,1221.96,139.98,5,11,0,Mobile Money,Mashonaland Central,No,No
+C0049,61,585.38,,6,12,1,Mobile Money,Midlands,No,No
+C0232,51,1689.02,433.56,4,12,1,Card,Harare,Yes,No
+C0203,35,955.75,354.81,10,28,1,Cash,Harare,No,No
+C0220,24,638.76,313.81,10,17,1,Mobile Money,Mashonaland East,No,No
+C0052,43,350.0,333.92,6,9,1,Cash,Midlands,Yes,No
+C0118,43,1495.5,398.22,10,14,2,Mobile Money,Mashonaland Central,Yes,No
+C0473,36,1079.33,187.42,4,15,2,Mobile Money,Manicaland,No,No
+C0071,18,1327.19,259.29,5,11,3,Mobile Money,Matabeleland South,No,No
+C0320,29,535.24,251.67,8,16,6,Card,Midlands,No,No
+C0021,30,1616.57,135.76,6,11,2,Mobile Money,Harare,No,No
+C0210,36,1901.11,542.07,8,12,5,Card,Harare,No,No
+C0267,18,1048.13,416.53,9,17,2,Mobile Money,Mashonaland Central,No,No
+C0064,21,1241.09,210.78,8,10,3,Mobile Money,Matabeleland North,No,No
+C0475,48,1795.77,169.28,9,13,3,Cash,Mashonaland Central,Yes,Yes
+C0098,38,1607.1,177.87,9,15,2,Card,Matabeleland North,No,No
+C0408,52,1355.4,86.04,7,8,1,Card,Midlands,No,No
+C0172,41,494.66,111.11,5,11,2,Cash,Bulawayo,No,No
+C0273,32,1834.72,480.43,10,10,0,Card,Matabeleland South,Yes,No
+C0329,29,350.0,490.88,3,20,3,Card,Matabeleland South,No,No
+C0109,40,1339.74,488.73,10,17,4,Cash,Matabeleland North,No,No
+C0033,43,377.52,385.01,11,6,1,Mobile Money,Matabeleland South,No,No
+C0125,42,576.58,379.83,4,13,4,Bank Transfer,Matabeleland South,No,No
+C0183,46,1313.88,118.71,10,10,5,Cash,Midlands,Yes,No
+C0257,43,1169.17,336.57,8,14,5,Mobile Money,Mashonaland West,Yes,No
+C0099,24,1002.53,308.33,4,18,5,Card,Harare,No,No
+C0438,18,1148.07,227.58,3,9,3,Cash,Matabeleland North,Yes,No
+C0093,18,1723.51,118.28,10,16,2,Mobile Money,Masvingo,No,No
+C0039,40,1168.1,145.54,5,10,1,Cash,Bulawayo,No,No
+C0133,43,1813.28,121.92,6,15,1,Mobile Money,Masvingo,No,No
+C0096,55,649.18,143.63,6,13,5,Cash,Mashonaland East,No,No
+C0354,43,966.8,296.57,8,5,1,Mobile Money,Mashonaland East,Yes,Yes
+C0036,42,1317.55,150.39,5,10,0,Bank Transfer,Matabeleland South,No,No
+C0265,36,1399.47,334.67,5,14,5,Mobile Money,Matabeleland South,Yes,No
+C0340,18,1298.06,361.92,6,13,5,Card,Masvingo,Yes,No
+C0086,23,1303.33,260.26,5,9,1,Card,Mashonaland East,No,Yes
+C0370,27,792.72,43.36,4,6,3,Bank Transfer,Harare,No,No
+C0215,36,819.33,244.18,6,13,6,,Mashonaland Central,No,Yes
+C0270,35,1894.2,335.7,11,13,1,Mobile Money,Harare,No,No
+C0222,29,1585.93,410.65,4,11,2,Mobile Money,Masvingo,No,No
+C0230,33,881.48,428.21,7,9,2,Mobile Money,Mashonaland West,No,No
+C0034,46,1518.32,306.62,9,11,1,Card,Mashonaland Central,Yes,No
+C0278,45,925.72,199.46,6,10,4,Card,Mashonaland East,Yes,Yes
+C0196,20,1630.01,304.59,7,9,4,Card,Harare,No,No
+C0216,36,1288.09,286.43,4,17,3,Card,Mashonaland West,No,Yes
+C0460,29,723.92,483.88,12,10,1,Mobile Money,Manicaland,No,No
+C0365,45,1152.24,196.11,7,8,3,Card,Matabeleland North,Yes,No
+C0360,25,1596.86,,10,14,5,Cash,Mashonaland Central,No,No
+C0271,42,783.21,176.14,4,14,5,Bank Transfer,Mashonaland West,Yes,No
+C0446,37,1176.98,404.24,5,13,6,Card,Matabeleland North,Yes,No
+C0070,37,1672.86,84.03,9,12,2,Card,Midlands,No,No
+C0090,42,883.83,148.33,10,11,3,Card,Masvingo,Yes,No
+C0003,18,706.79,329.88,5,11,3,Mobile Money,Mashonaland West,Yes,No
+C0020,21,1094.28,215.37,6,15,2,Bank Transfer,Mashonaland West,No,No
+C0068,38,1699.55,303.44,8,12,3,Bank Transfer,Mashonaland West,No,No
+C0189,18,2055.42,275.28,3,14,2,Mobile Money,Mashonaland East,No,No
+C0474,46,1833.46,321.39,6,13,3,Cash,Matabeleland South,No,No
+C0308,18,1520.53,305.39,8,9,4,Mobile Money,Mashonaland Central,No,No
+C0253,32,914.64,293.5,11,16,4,Card,Midlands,Yes,No
+C0335,23,1312.81,282.73,3,12,3,Mobile Money,Manicaland,No,Yes
+C0044,49,1612.31,177.73,6,10,1,Cash,Masvingo,No,No
+C0399,37,1827.69,115.83,9,10,4,Mobile Money,Harare,No,No
+C0321,27,1132.17,305.35,6,9,2,Cash,Midlands,Yes,No
+C0067,29,1776.3,278.18,2,7,4,Bank Transfer,Manicaland,No,Yes
+C0162,64,744.52,226.54,9,13,3,Card,Matabeleland North,No,No
+C0213,44,1035.33,161.65,3,16,0,Cash,Mashonaland West,No,No
+C0429,42,831.57,244.03,3,9,3,Cash,Manicaland,No,No
+C0165,62,1129.38,230.02,9,14,2,Mobile Money,Harare,Yes,No
+C0318,36,1253.42,494.26,9,10,3,Cash,Harare,Yes,No
+C0277,33,588.86,162.71,9,16,4,Mobile Money,Mashonaland West,No,Yes
+C0195,37,1458.47,231.33,8,10,3,Card,Matabeleland South,Yes,Yes
+C0430,65,350.0,524.32,9,7,3,Card,Manicaland,No,No
+C0442,40,933.38,372.6,9,11,4,Mobile Money,Masvingo,No,Yes
+C0392,18,931.4,264.83,7,12,0,Cash,Mashonaland Central,No,No
+C0015,37,1474.73,79.87,5,17,6,Cash,Mashonaland West,No,No
+C0252,34,1338.51,57.13,4,14,3,Cash,Matabeleland North,Yes,No
+C0397,32,892.54,229.77,6,9,2,Mobile Money,Bulawayo,No,Yes
+C0466,50,1546.45,244.84,9,18,2,Mobile Money,Mashonaland East,No,No
+C0140,18,1115.82,201.94,7,16,1,Card,Harare,Yes,No
+C0076,40,625.95,90.41,7,9,3,Mobile Money,Matabeleland North,No,No
+C0080,33,1060.64,263.97,4,15,2,Card,Harare,No,No
+C0023,33,1934.13,398.69,6,8,3,Mobile Money,Matabeleland North,No,No
+C0059,48,683.51,349.23,12,7,1,Mobile Money,Bulawayo,Yes,No
+C0102,35,1144.33,335.79,5,10,2,Card,Mashonaland Central,Yes,Yes
+C0366,29,1621.08,223.9,7,13,2,Card,Manicaland,Yes,No
+C0289,40,592.57,389.06,4,9,0,Mobile Money,Harare,No,Yes
+C0477,39,1184.99,386.26,6,8,1,Card,Matabeleland North,Yes,No
+C0074,29,1254.12,274.94,7,14,5,Card,Bulawayo,No,Yes
+C0260,21,1701.96,307.68,7,5,2,Cash,Mashonaland East,No,Yes
+C0312,41,,324.86,3,10,2,Card,Matabeleland South,No,No
+C0160,42,1443.43,30.0,3,9,3,Cash,Mashonaland East,No,No
+C0217,28,1863.03,358.19,4,12,3,Mobile Money,Mashonaland West,Yes,No
+C0292,26,1434.62,305.76,8,10,2,Mobile Money,Midlands,No,No
+C0227,28,1179.98,452.26,8,13,3,Card,Mashonaland Central,Yes,No
+C0050,67,357.31,126.3,5,13,3,Bank Transfer,Mashonaland East,No,No
+C0153,34,1282.8,288.23,10,7,2,Cash,Midlands,No,No
+C0138,53,1649.15,348.19,8,9,5,Mobile Money,Masvingo,No,No
+C0422,50,1753.24,361.62,6,12,1,Card,Matabeleland North,No,No
+C0293,40,1150.37,157.04,15,14,2,Cash,Mashonaland West,No,No
+C0004,49,690.93,362.85,6,20,2,Card,Manicaland,No,No
+C0449,36,1144.47,120.52,11,7,2,Card,Matabeleland North,No,No
+C0246,42,1304.83,324.11,9,7,2,Card,Mashonaland East,No,No
+C0297,38,1123.46,220.36,6,13,2,Cash,Mashonaland East,No,No
+C0485,23,382.16,240.54,7,8,3,Cash,Mashonaland East,Yes,Yes
+C0489,28,575.97,285.07,7,14,2,Card,Bulawayo,No,No
+C0327,24,772.43,138.27,2,10,4,Mobile Money,Manicaland,Yes,No
+C0352,49,2037.83,331.38,4,11,4,Mobile Money,Harare,Yes,No
+C0362,29,1746.16,30.0,16,4,5,Mobile Money,Mashonaland East,No,No
+C0149,35,541.29,285.65,1,10,1,Mobile Money,Midlands,No,No
+C0414,32,1369.2,30.0,6,23,1,Cash,Masvingo,No,Yes
+C0464,18,1043.15,364.65,7,9,0,Card,Matabeleland North,No,No
+C0048,27,1639.58,200.88,5,16,0,Mobile Money,Midlands,No,No
+C0496,18,1419.94,285.44,6,10,1,Card,Midlands,Yes,No
+C0202,39,1004.81,320.61,9,13,3,Card,Midlands,No,Yes
+C0251,44,1382.52,445.24,8,13,2,Bank Transfer,Masvingo,No,Yes
+C0018,40,1389.98,197.17,9,7,1,Bank Transfer,Matabeleland South,No,No
+C0317,26,1427.35,340.2,10,17,3,Card,Harare,No,No
+C0113,36,847.42,185.46,7,8,3,Card,Harare,No,No
+C0325,32,1135.6,101.69,8,7,0,Cash,Mashonaland Central,No,No
+C0026,53,1544.77,361.87,10,12,3,Bank Transfer,Manicaland,No,No
+C0295,44,1633.54,214.58,6,9,3,Bank Transfer,Matabeleland North,Yes,No
+C0305,36,,372.09,8,14,1,Bank Transfer,Mashonaland East,No,No
+C0418,42,1590.26,225.7,9,13,3,Mobile Money,Mashonaland West,No,No
+C0405,52,1321.31,166.58,8,15,0,Cash,Midlands,No,No
+C0112,18,1115.63,374.38,5,10,3,Card,Matabeleland North,No,Yes
+C0136,56,856.45,129.27,4,9,0,Mobile Money,Bulawayo,No,Yes
+C0097,31,1566.4,210.32,8,24,2,Card,Mashonaland Central,No,No
+C0264,42,2034.46,355.7,2,11,1,Mobile Money,Manicaland,Yes,No
+C0250,39,838.54,131.79,10,10,0,Mobile Money,Midlands,No,No
+C0481,21,1134.79,210.65,9,8,1,Mobile Money,Manicaland,Yes,No
+C0028,48,1118.04,3200.0,7,18,1,Mobile Money,Mashonaland East,Yes,No
+C0206,44,1534.75,258.5,10,14,1,Mobile Money,Manicaland,No,No
+C0439,26,1073.36,276.28,8,9,2,Card,Mashonaland West,No,No
+C0131,18,1323.04,180.64,7,14,2,Card,Mashonaland Central,No,No
+C0029,23,2028.24,141.24,1,16,3,Mobile Money,Manicaland,Yes,No
+C0461,54,1147.81,389.99,10,15,3,Cash,Masvingo,No,No
+C0454,35,1179.34,365.01,9,18,5,Cash,Bulawayo,No,Yes
+C0436,34,1284.31,127.65,9,12,0,Card,Midlands,No,No
+C0413,55,1597.82,380.14,8,8,4,Card,Matabeleland South,No,No
+C0117,24,1747.11,30.0,8,15,3,Card,Mashonaland Central,No,No
+C0030,37,1216.42,163.7,6,14,2,Mobile Money,Masvingo,No,No
+C0334,24,776.96,139.77,6,9,3,Bank Transfer,Harare,No,No
+C0078,28,1181.75,117.51,8,7,5,Card,Manicaland,No,No
+C0441,54,654.61,267.42,8,8,4,Card,Harare,No,No
+C0283,38,1161.78,251.0,8,14,4,Mobile Money,Mashonaland West,No,Yes
+C0391,48,1726.25,230.03,6,20,1,Card,Matabeleland North,Yes,No
+C0258,82,959.99,160.54,8,13,6,Mobile Money,Masvingo,Yes,Yes
